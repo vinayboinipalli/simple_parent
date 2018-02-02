@@ -5,12 +5,12 @@
   <parent>
     <groupId>org.sonatype.mavenbook</groupId>
     <artifactId>simple_parent</artifactId>
-    <version>3.0-SNAPSHOT</version>
+    <version>4.0</version>
   </parent>
 
   <groupId>org.sonatype.mavenbook</groupId>
   <artifactId>simple_java</artifactId>
-  <version>3.0-SNAPSHOT</version>
+  <version>4.0</version>
   <name>simple_java</name>
   <url>http://maven.apache.org</url>
 <distributionManagement>
