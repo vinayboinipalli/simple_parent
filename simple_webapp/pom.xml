@@ -31,7 +31,15 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+ 
+   <dependency>
+	<groupId>org.sonatype.mavenbook</groupId>
+	<artifactId>simple_java</artifactId>
+    <version>4.1-SNAPSHOT</version>
+    <scope>compile</scope>
+    </dependency>
   </dependencies>
+
   <build>
     <finalName>simple_webapp</finalName>
   </build>
